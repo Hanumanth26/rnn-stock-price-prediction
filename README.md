@@ -161,11 +161,13 @@ mse(y_test,predicted_stock_price)
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-![Screenshot 2024-04-07 191739](https://github.com/Hanumanth26/rnn-stock-price-prediction/assets/121033192/7fab62b9-29fc-44e1-981b-12f0554d83c1)
 
+
+![Screenshot 2024-04-07 204415](https://github.com/Hanumanth26/rnn-stock-price-prediction/assets/121033192/eaca845b-7b06-4775-b98e-b5a9753c01c3)
 
 ### Mean Square Error
-![Screenshot 2024-04-07 191934](https://github.com/Hanumanth26/rnn-stock-price-prediction/assets/121033192/d7df6e78-efae-4ea4-9505-612d206dd2a5)
+
+![Screenshot 2024-04-07 204446](https://github.com/Hanumanth26/rnn-stock-price-prediction/assets/121033192/6ce0bc9a-f58e-4651-87a5-4797d60ba65a)
 
 ## RESULT
 
